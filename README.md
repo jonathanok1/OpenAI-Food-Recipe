@@ -1,7 +1,9 @@
 # OpenAI Food Recipe Generator
 
 Personal Project using OpenAI API and React/JS
+
 Project only works locally I am not posting API key for openAI in public
+
 Main goal was to integrate openAI API and learn React
 
 
