@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 
 // API Key
-const API_KEY = "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";
+const API_KEY = import.meta.env.VITE_SECRET;
 
 function App() {
   const [ingredients, setIngredients] = useState("");
