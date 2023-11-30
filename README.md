@@ -1,8 +1,8 @@
-# React + Vite
+# OpenAI Food Recipe Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal Project using OpenAI API and React/JS
 
-Currently, two official plugins are available:
+Project only works locally I am not posting API key for openAI in public
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Below is an image of the project working.
+[![Image from Gyazo](https://i.gyazo.com/ba2d5d512fd4b399fc62f31b0b484c50.gif)](https://gyazo.com/ba2d5d512fd4b399fc62f31b0b484c50)
